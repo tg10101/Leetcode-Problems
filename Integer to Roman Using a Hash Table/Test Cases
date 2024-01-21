@@ -1,9 +1,26 @@
 𝐓𝐞𝐬𝐭 𝐂𝐚𝐬𝐞 #𝟏
 num = 3
+
+Output
+"III"
+Expected
+"III"
+
 𝐓𝐞𝐬𝐭 𝐂𝐚𝐬𝐞 #𝟐 
 num = 58
+
+Output
+"LVIII"
+Expected
+"LVIII"
+
 𝐓𝐞𝐬𝐭 𝐂𝐚𝐬𝐞 #𝟑
 num = 1994
+
+Output
+"MCMXCIV"
+Expected
+"MCMXCIV"
 
 Status: Passed
 Case #1 ✅
