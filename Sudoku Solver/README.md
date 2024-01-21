@@ -1,4 +1,4 @@
-Image examples: 
+𝐈𝐦𝐚𝐠𝐞 𝐄𝐱𝐚𝐦𝐩𝐥𝐞𝐬
 
 Input: 
 
