@@ -1,1 +1,16 @@
+𝐓𝐞𝐬𝐭 𝐂𝐚𝐬𝐞 #𝟏
+string = "barfoothefoobarman"
+words = ["foo","bar"]
 
+𝐓𝐞𝐬𝐭 𝐂𝐚𝐬𝐞 #𝟐 
+string = "wordgoodgoodgoodbestword"
+words = ["word","good","best","word"]
+
+𝐓𝐞𝐬𝐭 𝐂𝐚𝐬𝐞 #𝟑
+string = "barfoofoobarthefoobarman"
+words = ["bar","foo","the"]
+
+Status: Passed
+Case #1 ✅
+Case #2 ✅
+Case #3 ✅
