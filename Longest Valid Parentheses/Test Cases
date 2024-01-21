@@ -1,0 +1,31 @@
+𝐓𝐞𝐬𝐭 𝐂𝐚𝐬𝐞 #𝟏
+Input:
+s = "(()"
+
+Output
+2
+Expected
+2
+
+𝐓𝐞𝐬𝐭 𝐂𝐚𝐬𝐞 #𝟐 
+Input:
+s = ")()())"
+
+Output
+4
+Expected
+4
+
+𝐓𝐞𝐬𝐭 𝐂𝐚𝐬𝐞 #𝟑
+Input:
+s = ""
+
+Output
+0
+Expected
+0
+
+Status: Passed
+Case #1 ✅
+Case #2 ✅
+Case #3 ✅
