@@ -2,13 +2,28 @@
 string = "barfoothefoobarman"
 words = ["foo","bar"]
 
+Output
+[0,9]
+Expected
+[0,9]
+
 𝐓𝐞𝐬𝐭 𝐂𝐚𝐬𝐞 #𝟐 
 string = "wordgoodgoodgoodbestword"
 words = ["word","good","best","word"]
 
+Output
+[]
+Expected
+[]
+
 𝐓𝐞𝐬𝐭 𝐂𝐚𝐬𝐞 #𝟑
 string = "barfoofoobarthefoobarman"
 words = ["bar","foo","the"]
+
+Output
+[6,9,12]
+Expected
+[6,9,12]
 
 Status: Passed
 Case #1 ✅
